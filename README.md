@@ -31,6 +31,7 @@
 
 ![Maxim-Proskurin GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&theme=2077)
 [![Maxim-Proskurin GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin)
+![Maxim-Proskurin GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&show_icons=true&theme=neon)
 
 
 
