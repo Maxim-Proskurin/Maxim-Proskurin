@@ -27,7 +27,7 @@
 
 | **Профиль** | **Статистика** | **Языки** |
 |:-----------:|:--------------:|:---------:|
-| [![Профиль](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Языки](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) |
+| [![Профиль]([http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxim-Proskurin&theme=2077](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxim-proskurin&theme=2077))](https://github.com/Maxim-Proskurin) | [![Статистика]((http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxim-proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Языки](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) |
 
 **Связь📱:**
 [![💬 Написать в Telegram](https://img.shields.io/badge/💬-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Tyler_not_Durden)
