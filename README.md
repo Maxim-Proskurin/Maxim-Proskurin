@@ -14,7 +14,9 @@
 - 🧪 pytest - тесты одной командой.
 
 ### Стек:👇🏻
-
+![Profile](https://maxim-proskurin.github.io/profile-cards/cards/profile-details.svg)
+![Stats](https://maxim-proskurin.github.io/profile-cards/cards/stats.svg)
+![Languages](https://maxim-proskurin.github.io/profile-cards/cards/repos-per-language.svg)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
