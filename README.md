@@ -29,7 +29,7 @@
 |:-----------:|:--------------:|:---------:|
 | [![Профиль](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Языки](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Maxim-Proskurin GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin_icons=true&theme=radical)
 
 
 
