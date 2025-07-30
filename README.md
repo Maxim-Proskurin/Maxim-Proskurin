@@ -25,7 +25,7 @@
 
 ### 🐱‍💻 Активности
 
-![Maxim GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&show_icons=true&theme=synthwave)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&show_icons=true&theme=synthwave&custom_title=Maxim%27s%20Stats)
 
 
 
