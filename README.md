@@ -25,12 +25,7 @@
 
 ### 🐱‍💻 Активности
 
-| **Профиль** | **Статистика** | **Языки** |
-|:-----------:|:--------------:|:---------:|
-| [![Профиль](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Языки](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) |
-
-
-![Maxim GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&show_icons=true&theme=radical)
+![Maxim GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&show_icons=true&theme=synthwave)
 
 
 
