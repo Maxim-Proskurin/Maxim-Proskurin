@@ -29,6 +29,10 @@
 |:-----------:|:--------------:|:---------:|
 | [![Профиль](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Языки](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) |
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
 **Связь📱:**
 [![💬 Написать в Telegram](https://img.shields.io/badge/💬-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Tyler_not_Durden)
 [![📧 Написать письмо](https://img.shields.io/badge/📧_Написать-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.yandex.ru/compose?mailto=Maxiprsk@yandex.ru)
