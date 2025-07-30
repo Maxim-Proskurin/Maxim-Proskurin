@@ -29,6 +29,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Maxim-Proskurin&show_icons=true&theme=synthwave&custom_title=Maxim)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Maxim-Proskurin&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Maxim-Proskurin&theme=synthwave)](https://git.io/streak-stats)
 
 
 
