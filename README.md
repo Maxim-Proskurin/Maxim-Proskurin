@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет🤙🏻
 
-<!--
-**Maxim-Proskurin/Maxim-Proskurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Максим - только начинаю свой путь в backend, но уже умею собирать проект целиком: пишу API на FastAPI, заворачиваю в Docker, покрываю pytest, а миграции и чистоту кода держу на Alembic + pre-commit. Ищу команду, где смогу расти и приносить пользу уже с первых дней.
 
-Here are some ideas to get you started:
+## Обо мне🐱‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Учусь писать на Python 3.12🐍.
+- ⚡ FastAPI - быстрый REST из коробки.
+- 🐘 PostgreSQL - данные в надёжном хранилище.
+- 🅿  pre-commit - чистый код из коробки.
+- 📦 Poetry - зависимости без сюрпризов.
+- 🔄 Alembic - миграции без потери данных.
+- 🐳 Docker - запускается везде.
+- 🧪 pytest - тесты одной командой.
+
+### Стек:👇🏻
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" width="60"/>
+  &nbsp;
+
+### 🐱‍💻 Активности
+
+| **Профиль** | **Статистика** | **Языки** |
+|:-----------:|:--------------:|:---------:|
+| [![Профиль](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) | [![Языки](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxim-Proskurin&theme=2077)](https://github.com/Maxim-Proskurin) |
+
+**Связь📱:**
+[![💬 Написать в Telegram](https://img.shields.io/badge/💬-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Tyler_not_Durden)
+[![📧 Написать письмо](https://img.shields.io/badge/📧_Написать-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.yandex.ru/compose?mailto=Maxiprsk@yandex.ru)
